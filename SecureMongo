@@ -1,0 +1,9 @@
+db.createUser(
+  {
+    user: "j2a",
+    pwd: "Steaua23",
+    roles: [ { role: "userAdminAnyDatabase", db: "admin" } ]
+  }
+)
+
+mongo --port 27017 -u "j2a" -p "Steaua23" --authenticationDatabase "admin"

@@ -1,0 +1,36 @@
+{
+  "redis": {
+    "host": "127.0.0.1",
+    "port": 6379
+  },
+
+  "mySql": {
+    "host": "52.37.68.219",
+    "user": "fusionseven",
+    "password": "fs155borel",
+    "database": "fs_reference",
+    "qReadCache": "SELECT  * FROM client_campaign_creative_mapping ORDER BY contract_campaign_id, io_start_date",
+    "qWriteCache":"",
+    "qKey": "contract_campaign_id"
+  },
+
+  "mongo": {
+    "host": "mongodb://heroku_dq87qp4m:pg2i9bp93n84fjrvvn4dqqsm10@ds045785.mongolab.com:45785/heroku_dq87qp4m"
+  },
+
+  "ftpIn": {
+    "host": "52.24.30.179",
+    "port": 21,
+    "user": "trg",
+    "password": "x:n-5n^YE9:"
+  },
+
+  "csvOptions": {
+    "delimiter": ",",
+    "newline": "\n",
+    "quote": "\"",
+    "empty": "",
+    "objectMode": true,
+    "columns": true
+  }
+}

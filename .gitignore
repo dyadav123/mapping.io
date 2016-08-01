@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+# Dependency directory
+node_modules
+
+# Environment variables
+#.env
+=======
+*.iml
+.idea
+target
+dependency-reduced-pom.xml
+.DS_Store
+module*.zip
+>>>>>>> 507b277b9b2797dc0daf298546af96146378bee5

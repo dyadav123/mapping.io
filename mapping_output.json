@@ -1,0 +1,31 @@
+{
+  "partner_type": "FPA",
+  "partner_code": "SPEC",
+  "createdOn": "2016-08-01T09:40:45.087Z",
+  "rows": [
+    {
+      "rowKey": "1",
+      "_id": "579f1aee6062fc144379366d",
+      "rowData": [
+        {
+          "_id": "579f0b886fb8fb3237b0678e",
+          "partnerField": "ctr",
+          "value": "72.72727273",
+          "type": "String",
+          "f7Field": "ctr"
+        },
+        {
+          "_id": "579f191de79b7b0142af2079",
+          "partnerField": "",
+          "value": "USD",
+          "type": "String",
+          "f7Field": "currency_code"
+        }
+      ]
+    }
+  ],
+  "client": "RICH",
+  "verMajor": "1",
+  "verMinor": "0",
+  "reference": []
+}

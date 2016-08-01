@@ -1,0 +1,21 @@
+{
+  "predicate":
+  {
+    "name": "implies",
+    "predicates":
+    [
+      {
+        "name": "then",
+        "concepts":
+        [
+          {
+            "name": "switch case a == true"
+          },
+          {
+            "name": "then "
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "minVer": "0",
+  "majVer": "1",
+  "client": "RICH",
+  "partner_code": "SPEC",
+  "partner_type": "FPA",
+  "_id": "579f191de79b7b0142af207c",
+  "reference": [],
+  "rows": [
+    {
+      "_id": "579f191de79b7b0142af207b",
+      "rowKey": "1",
+      "rowData": [
+        {
+          "_id": "579f0b886fb8fb3237b0678e",
+          "partnerField": "ctr",
+          "value": "72.72727273",
+          "type": "String"
+        },
+        {
+          "_id": "579f191de79b7b0142af2079",
+          "partnerField": "",
+          "value": "USD",
+          "type": "String"
+        }
+      ]
+    }
+  ],
+  "createdOn": "2016-08-01T09:40:45.087Z"
+}
